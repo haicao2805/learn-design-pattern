@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data\\MyLearning\\DesignPattern\\DesignPatternSolution\\StrategyDesignPattern\\StrategyDesignPattern.csproj": {}
+    "C:\\Data\\MyLearning\\DesignPattern\\DesignPatternSolution\\StrategyDP\\StrategyDP.csproj": {}
   },
   "projects": {
-    "C:\\Data\\MyLearning\\DesignPattern\\DesignPatternSolution\\StrategyDesignPattern\\StrategyDesignPattern.csproj": {
+    "C:\\Data\\MyLearning\\DesignPattern\\DesignPatternSolution\\StrategyDP\\StrategyDP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\MyLearning\\DesignPattern\\DesignPatternSolution\\StrategyDesignPattern\\StrategyDesignPattern.csproj",
-        "projectName": "StrategyDesignPattern",
-        "projectPath": "C:\\Data\\MyLearning\\DesignPattern\\DesignPatternSolution\\StrategyDesignPattern\\StrategyDesignPattern.csproj",
+        "projectUniqueName": "C:\\Data\\MyLearning\\DesignPattern\\DesignPatternSolution\\StrategyDP\\StrategyDP.csproj",
+        "projectName": "StrategyDP",
+        "projectPath": "C:\\Data\\MyLearning\\DesignPattern\\DesignPatternSolution\\StrategyDP\\StrategyDP.csproj",
         "packagesPath": "C:\\Users\\haicao\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\MyLearning\\DesignPattern\\DesignPatternSolution\\StrategyDesignPattern\\obj\\",
+        "outputPath": "C:\\Data\\MyLearning\\DesignPattern\\DesignPatternSolution\\StrategyDP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\haicao\\AppData\\Roaming\\NuGet\\NuGet.Config",
